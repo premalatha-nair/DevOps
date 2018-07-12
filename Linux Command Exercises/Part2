@@ -1,0 +1,18 @@
+1.	List the files in your home directory
+2.	Store the above results in a file calles files.txt
+3.	Display “Hello World”
+4.	Display files.txt with line numbers
+5.	Add line numbers to files.txt and store in files.txt
+6.	Move files.txt to Modifiedfiles.txt
+7.	Insert a blank line after 2nd line
+8.	Display the file with number
+9.	Display the file only with numbers for non blank lines
+10.	Use vi editor to add the lines below to Modifiedfiles.text
+        Adding first line
+        Adding second line
+        Adding third line
+      	Adding First line
+11.	Search for first
+12.	Search for first  and First in the file
+13.	Display line numbers where first and First appear
+14.	Display lines which do not have first
