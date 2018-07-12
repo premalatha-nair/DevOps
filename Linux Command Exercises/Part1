@@ -1,0 +1,27 @@
+1.	List the files and see the last modified time of the files
+2.	Create a file Test.txt. Make it a hidden file
+3.	Display the files which are not hidden
+4.	Display all files with hidden files
+5.	List files sizes as Kbytes
+6.	List directories – Show them with / at the end
+7.	In home directory, create a sub Dir sub1. Create another subdirectory sub2 .
+8.	List the directories and their sub directories from home directory
+9.	List files in last modified first order
+10.	List the files in the order of size
+11.	List UID and GID of files [what is UID & GID]?
+12.	List files in a comma separated format
+13.	Create a file Hello.c as follows
+#include <stdio.h>
+main()
+{	
+print(“Hello world”)
+          }
+14.	Compile this file cc Hello.c . You will get a.out and run a.out
+15.	Make a.out non executable by changing file permissions
+
+References
+
+https://stackoverflow.com/questions/5991732/get-all-directories-comma-separated-and-send-output-to-other-script
+
+https://www.tecmint.com/15-basic-ls-command-examples-in-linux/
+https://www.tecmint.com/linux-ls-command-tricks/
