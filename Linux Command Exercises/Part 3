@@ -1,0 +1,25 @@
+1.     Display the contents of two files with one command
+2.     Create a small file which contains “Hello World” from the command line
+3.     Create the following table
+ 
+       Vinod 32
+        Sita   40
+        Lata   34
+        Sita    38
+ 
+4.     Sort the above file and display. Store in file sort.txt
+5.     Display only unique elements in the file sort.txt
+6.     Display only the first 3 elements of the file
+7.     Display only the last 3 elements of the fie
+
+Create multiple files such as file1, file2, file3, file4 and input all files with minimum 5 lines
+8.	Print the line begins with the pattern “the”.
+9.	Which one of the following is the correct syntax for grep command?
+a.	grep   option   filename(s)
+b.	grep   option   pattern
+c.	grep   pattern   filename(s)
+d.	grep   option   pattern   filename(s)
+10.	Print the lines which does not contains the pattern “the”
+11.	Delete all lines from file1 except those containing the pattern “the” – use grep command
+12.	List all files which contains the pattern “Linux”.
+13.	Search for multiple pattern such as “the”, “what”, “this”, “that” and the pattern must be taking from a file 
