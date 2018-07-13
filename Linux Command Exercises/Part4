@@ -1,0 +1,21 @@
+1.	List all the process belongs to the current user.
+2.	Display all processes in a tree structure.
+3.	List all the processes running on the system.
+4.	Sleep for 1000 seconds and put it background.
+5.	Put the last job in foreground mode.
+6.	Move the current job in background mode.
+7.	Abort second job
+8.	Display processes (sorted by CPU percentage).
+9.	Kill all the processes of the current user.
+10.	Print the process id of Firefox
+11.	Change the priority of a process.
+12.	Print the execution time of a process.
+13.	Print the execution time of Firefox
+14.	List the top running processes by highest memory and CPU usage 
+15.	Create 3 shell and login as user1, user2, user3
+16.	Sleep for 1000sec in each of the shell 
+17.	List the process by each users
+18.	Kill the sleep process of user2
+19.	Display security information in user defined format (euser,ruser,suser,fuser,command,label)
+20.	Perform real time monitoring using watch command
+
