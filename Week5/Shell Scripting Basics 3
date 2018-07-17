@@ -1,0 +1,17 @@
+Ex 1) Using arguments
+
+1- Create arg.h
+
+echo "My first name is $1" 
+echo "My surname is $2" 
+echo "Total number of arguments is $#" 
+
+Run as follows
+sh arg Prema Nair
+
+Ex2) Making the file executable
+
+chmod a+x shell1.sh
+./arg.sh Prema Nair [Run
+
+Ex3) 
