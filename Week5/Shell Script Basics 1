@@ -1,0 +1,17 @@
+1) Write your first Shell Script to print Hello world
+
+Open a file Hello.sh with the contents below
+echo "Hello World";
+
+- In the shell type the command sh Hello.sh
+
+
+2) Write a shell script with a variable
+
+Open a file Hello.sh with the contents below
+echo "Hello World";
+echo "Hello $USER";
+
+- Run the shell script with sh Hello.sh
+
+
