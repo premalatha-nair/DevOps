@@ -1,0 +1,47 @@
+Basics 2: Introduction to Loops
+
+1) Read a number and check if it is lesser than 10  
+
+******Hints : Lesser than : -le, greater than -ge
+******Hints : Single Loop
+if <condition>
+then
+    ### series of code goes here
+fi
+******Hint : Mulriple If condifion 
+if <condition1>
+then
+    ### series of code for condition1
+elif <condition2>
+then
+    ### series of code for condition2
+else
+    ### series of code if the condition is not satisfied
+fi
+******single brackect syntax
+
+if [condition]
+
+******Multiple bracket syntax
+
+If ((condition))
+
+
+
+
+Exercise 1)
+
+- Create a file Numbercheck.sh with
+
+echo "Input a Number"
+read Number
+if [ $Number -le 10 ]
+then echo "Less than 10"
+else
+echo "Number is greater  than 10"
+fi
+
+- Run the script sh Numbercheck.sh
+
+
+2) Exercise : Read a number and check if it is greater than 10  and less than 20
