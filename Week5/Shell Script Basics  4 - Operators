@@ -1,0 +1,46 @@
+
+Exercises
+1) Read two numbers, Check if they are equal. Check if first argument is bigger than the second
+2) Read two strings. Compare if they are equal. If equal. type strings are equal
+
+
+
+
+1) Basic Operators
+
+Operator	Description	Example
++ (Addition)	Adds values on either side of the operator	`expr $a + $b` will give 30
+- (Subtraction)	Subtracts right hand operand from left hand operand	`expr $a - $b` will give -10
+* (Multiplication)	Multiplies values on either side of the operator	`expr $a \* $b` will give 200
+/ (Division)	Divides left hand operand by right hand operand	`expr $b / $a` will give 2
+% (Modulus)	Divides left hand operand by right hand operand and returns remainder	`expr $b % $a` will give 0
+= (Assignment)	Assigns right operand in left operand	a = $b would assign value of b into a
+== (Equality)	Compares two numbers, if both are same then returns true.	[ $a == $b ] would return false.
+!= (Not Equality)	Compares two numbers, if both are different then returns true.	[ $a != $b ] would return true.
+
+2) Relational Operators
+
+Operator	Description	Example
+-eq	Checks if the value of two operands are equal or not; if yes, then the condition becomes true.	[ $a -eq $b ] is not true.
+-ne	Checks if the value of two operands are equal or not; if values are not equal, then the condition becomes true.	[ $a -ne $b ] is true.
+-gt	Checks if the value of left operand is greater than the value of right operand; if yes, then the condition becomes true.	[ $a -gt $b ] is not true.
+-lt	Checks if the value of left operand is less than the value of right operand; if yes, then the condition becomes true.	[ $a -lt $b ] is true.
+-ge	Checks if the value of left operand is greater than or equal to the value of right operand; if yes, then the condition becomes true.	[ $a -ge $b ] is not true.
+-le	Checks if the value of left operand is less than or equal to the value of right operand; if yes, then the condition becomes true.	[ $a -le $b ] is true.
+
+
+3) Boolean Operators 
+
+Operator	Description	Example
+!	This is logical negation. This inverts a true condition into false and vice versa.	[ ! false ] is true.
+-o	This is logical OR. If one of the operands is true, then the condition becomes true.	[ $a -lt 20 -o $b -gt 100 ] is true.
+-a	This is logical AND. If both the operands are true, then the condition becomes true otherwise false.	[ $a -lt 20 -a $b -gt 100 ] is false.
+
+4) String Operators
+
+Operator	Description	Example
+=	Checks if the value of two operands are equal or not; if yes, then the condition becomes true.	[ $a = $b ] is not true.
+!=	Checks if the value of two operands are equal or not; if values are not equal then the condition becomes true.	[ $a != $b ] is true.
+-z	Checks if the given string operand size is zero; if it is zero length, then it returns true.	[ -z $a ] is not true.
+-n	Checks if the given string operand size is non-zero; if it is nonzero length, then it returns true.	[ -n $a ] is not false.
+str	Checks if str is not the empty string; if it is empty, then it returns false.	[ $a ] is not false.
