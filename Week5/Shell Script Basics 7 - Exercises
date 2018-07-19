@@ -1,0 +1,17 @@
+1 . Write a shell script to monitor the free space memory and load on the server.
+
+2 . Please use the if condition within the shell script to printout a message when the load is not normal and the / partition is above 25%.
+
+3 .  Write a shell script to do the following tasks.
+
+          1. Add a user in your first name.
+
+          2. Add the users to the group apache.
+
+          3. Check in which port httpd is running and printout a message with the port number.
+
+          4. If the httpd is running on port number 80, then create a log file under your home directory and write a message to the log. The log file name should be with current date.
+
+          5. Copy the apache configuration file(/etc/httpd/conf/httpd.conf) to your home directory.
+
+          6. Check where the DocumentRoot is set within the configuration file and write it to the log file.
