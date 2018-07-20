@@ -4,7 +4,9 @@
 
 3 .  Write a shell script to do the following tasks.
 
-          1. Add a user in your first name.
+          1. Add a user in your first name and assign to the group DevOps
+          
+          **************** Dont do the following exercises ******************
 
           2. Add the users to the group apache.
 
