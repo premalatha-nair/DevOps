@@ -1,0 +1,5 @@
+1 .  Write down a shell script for the following tasks.
+      1. Create a sample directory under your home directory.
+      2. Create some text files named 1 to 10 under the sample directory. Use for/while loop to do the same.
+      3. Create a log file under the same location. The log file name should be like hostname_current_date_time.log.
+      4. Write the name and timestamp of the above created text files into the log file.
