@@ -1,0 +1,4 @@
+1 a. Create zip file containing some random files.
+  b. Upload it to a git repo.
+  c.  Download the zip file and unzip it to /home/UID/www/html/.
+  d. Create symlink /home/UID/public_html to point /home/UID/www/html/.
