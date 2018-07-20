@@ -1,0 +1,7 @@
+1. Learn the try to run the following commands to a remote server
+ a) putty
+ b) ssh
+ 
+ 2) Download and install Ansibile on your machines
+ 3) Update the /etc/hosts file with the name of the server to be managed
+ 4) Establish the connection from the contril machine to the host to be managed
