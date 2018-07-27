@@ -1,0 +1,21 @@
+1.	What is shell?
+2.	What is shell scripting?
+3.	Write shell script to find the smallest and second smallest of 5 numbers
+4.	write a shell scripting program to check whether the input string contains special character?
+5.	Write shell script to Create a simple calculator to perform addition, subtraction, division and multiplication of two inputs.
+6.	 How to make a variable with constant data in shell scripting?
+7.	Write shell script to find the factorial of a number
+8.	What is the difference between $* and $@?
+9.	Write a shell scripting program to input marks of 5 students in 3 subjects. Find average marks of each student and print the grade of each student.
+   Average > 90 then print “A grade”
+   Average > 75 then print “B grade”
+   Average > 65 then print “C grade”
+   Average > 55 then print “D grade”
+   Average < 55 then print “Failed….!”
+10.	How to check if a directory is existing by using shell script?
+11.	What is the use of awk?
+12.	Within a shell scripting loop construct, what is the difference between the break and continue?
+13.	Create a file with 4 lines about DevOps (refer https://en.wikipedia.org/wiki/DevOps) and replace all occurrence of word “DevOps” with “Develop and operations” from 2nd line till end.
+14.	Write shell script to get current user, date, time, working directory
+15.	Write shell script to print * in triangle pyramid pattern.
+
